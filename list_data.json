@@ -1,33 +1,33 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"top hit recipes": [{
+		"Title": "Walnut pesto pasta",
+		"secret ingredient": "Anchovies",
+		"meal": "Dinner",
+		"season": "year-round"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Title": "Thai curry",
+		"secret ingredient": "Brown sugar",
+		"meal": "Dinner",
+		"season": "winter"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Title": "PB&J Smoothie",
+		"secret ingredient": "banana",
+		"meal": "Breakfast",
+		"season": "Summer"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Title": "Triple chocolate brownies",
+		"secret ingredient": "double the butter",
+		"meal": "dessert",
+		"season": "year-round"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Title": "Mushroom Rice Pilaf",
+		"secret ingredient": "sundried tomatoes",
+		"meal": "Lunch",
+		"season": "Fall"
 	}]
 	
 }
