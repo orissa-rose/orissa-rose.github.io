@@ -2,33 +2,17 @@
 <?xml encoding="UTF-8"?>
 
 <!ELEMENT root (restaurants)+>
-<!ATTLIST root
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT restaurants (id,name,cuisine,city,open,close)>
-<!ATTLIST restaurants
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT id (#PCDATA)>
-<!ATTLIST id
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT name (#PCDATA)>
-<!ATTLIST name
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT cuisine (#PCDATA)>
-<!ATTLIST cuisine
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT city (#PCDATA)>
-<!ATTLIST city
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT open (#PCDATA)>
-<!ATTLIST open
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT close (#PCDATA)>
-<!ATTLIST close
-  xmlns CDATA #FIXED ''>
